@@ -10,6 +10,10 @@
 - 아버지께서 자녀들에게 해주시는 헌신적인 사랑의 말씀입니다. 
 - It is the word of the Father's devoted love for His children.
 
+## https://github.com/insaneoops288/Bible/blob/main/InternationalBible.md
+
+## https://github.com/insaneoops288/Bible/blob/main/WordOfGod.md
+
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church03.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church04.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church05.jpg" >
