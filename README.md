@@ -15,7 +15,8 @@
 ## https://github.com/insaneoops288/Bible/blob/main/WordOfGod.md
 
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church99.jpg" >
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church100.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church101.jpg" >
+<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church102.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church03.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church04.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church05.jpg" >
